@@ -1,6 +1,0 @@
-Link
-mongodb+srv://api:<password>@clusterzero.kygwu.mongodb.net/test
-
-(Link de Mongocompass)
-
-Dentro de blog , la colleccion con lab4 en el nombre 
