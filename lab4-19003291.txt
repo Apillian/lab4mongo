@@ -1,0 +1,6 @@
+Link
+mongodb+srv://api:Warcraft12345@clusterzero.kygwu.mongodb.net/test
+
+(Link de Mongocompass)
+
+Dentro de blog , la colleccion con lab4 en el nombre 
